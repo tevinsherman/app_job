@@ -3,7 +3,7 @@ require_relative "./app_movie/cli"
 
 require 'pry'
 
-module JobApp
+module AppMovie
   class Error < StandardError; end
   # Your code goes here...
 end

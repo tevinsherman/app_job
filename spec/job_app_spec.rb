@@ -1,6 +1,6 @@
-RSpec.describe JobApp do
+RSpec.describe AppMovie do
   it "has a version number" do
-    expect(JobApp::VERSION).not_to be nil
+    expect(AppMovie::VERSION).not_to be nil
   end
 
   it "does something useful" do

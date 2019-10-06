@@ -1,14 +1,14 @@
 lib = File.expand_path("lib", __dir__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require "job_app/version"
+require "app_movie/version"
 
 Gem::Specification.new do |spec|
   spec.name          = "job_app"
-  spec.version       = JobApp::VERSION
+  spec.version       = AppMovie::VERSION
   spec.authors       = ["Tevin Sherman"]
   spec.email         = ["tevinsherman@yahoo.com"]
 
-  spec.summary       = "This is a job listing app for a user"
+  spec.summary       = "This is a movie listing app for a user"
   
 
  

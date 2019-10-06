@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    job_app (0.1.0)
+    app_movie (0.1.0)
       nokogiri
 
 GEM

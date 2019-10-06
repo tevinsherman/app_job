@@ -7,7 +7,7 @@ To find jobs in the DC Area
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'job_app'
+gem 'app_movie'
 ```
 
 And then execute:
