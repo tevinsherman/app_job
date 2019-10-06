@@ -1,3 +1,3 @@
-module JobApp
+module AppMovie
   VERSION = "0.1.0"
 end

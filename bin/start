@@ -2,5 +2,5 @@
 
 require_relative "../lib/require"
 
-JobApp::CLI.new.call
+AppMovie::CLI.new.call
 

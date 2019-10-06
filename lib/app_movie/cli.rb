@@ -1,7 +1,7 @@
-class JobApp::CLI
+class AppMovie::CLI
 
   def call
-    puts "Welcome to my JobApp"
+    puts "Welcome to my AppMovie"
     #binding.pry
     # get_job_listing
     # get_job_desc

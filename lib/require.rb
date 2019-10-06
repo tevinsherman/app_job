@@ -1,5 +1,5 @@
-require_relative "./job_app/version"
-require_relative "./job_app/cli"
+require_relative "./app_movie/version"
+require_relative "./app_movie/cli"
 
 require 'pry'
 
